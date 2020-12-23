@@ -1,0 +1,26 @@
+{
+  "name": "kanban",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "@jamescoyle/vue-icon": "^0.1.0",
+    "@mdi/js": "^5.8.55",
+    "loadash": "^1.0.0",
+    "lodash.camelcase": "^4.3.0",
+    "nanoid": "^3.1.16",
+    "tailwindcss": "^1.9.6",
+    "vue": "^3.0.2"
+  },
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.2",
+    "vite": "^1.0.0-rc.8"
+  },
+  "main": "postcss.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
